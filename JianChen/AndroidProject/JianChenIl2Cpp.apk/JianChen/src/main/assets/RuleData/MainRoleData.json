@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1000001,
+    "Name": "27号",
+    "AssetName": "LiaoChen",
+    "Procession": 1,
+    "BaseAttack": 50,
+    "BaseHP": 400,
+    "BaseMP": 100,
+    "BaseDefend": 200,
+    "BaseActPoint": 100,
+    "BaseSpeed": 10,
+    "BaseHit": 100,
+    "BaseDoge": 5,
+    "BaseCritical": 5
+  },
+  {
+    "ID": 1000002,
+    "Name": "阳媚",
+    "AssetName": "JianChen",
+    "Procession": 4,
+    "BaseAttack": 50,
+    "BaseHP": 200,
+    "BaseMP": 300,
+    "BaseDefend": 100,
+    "BaseActPoint": 100,
+    "BaseSpeed": 10,
+    "BaseHit": 100,
+    "BaseDoge": 15,
+    "BaseCritical": 15
+  }
+]

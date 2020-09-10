@@ -1,0 +1,22 @@
+[
+  {
+    "MissionId": 1001,
+    "MissionName": "欢迎来到27号世界",
+    "MissionType": 0,
+    "Award": "[{\"ResourceType\":1,\"ResourceId\":1,\"ResourceNum\":1}]",
+    "MissionDesc": "引导玩家熟悉这个游戏世界",
+    "JumpTo": "",
+    "Weight": 0,
+    "Progress": 1
+  },
+  {
+    "MissionId": 1002,
+    "MissionName": "获得空白之书",
+    "MissionType": 1,
+    "Award": "[{\"ResourceType\":1,\"ResourceId\":2,\"ResourceNum\":1}]",
+    "MissionDesc": "在成长的旅途，要用知识武装头脑",
+    "JumpTo": "",
+    "Weight": 0,
+    "Progress": 1
+  }
+]

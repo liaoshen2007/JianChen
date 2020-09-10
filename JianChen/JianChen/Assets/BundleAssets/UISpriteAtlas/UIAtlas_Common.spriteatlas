@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas_Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d2da076363081854db482d03c36be6d9, type: 3}
+    totalSpriteSurfaceArea: 1017316
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 60325ea025c9d304eb21b535940475a8, type: 3}
+  - {fileID: 21300000, guid: 6559f301dedbaa04b8ca80bfe41d3682, type: 3}
+  - {fileID: 21300000, guid: 9b8ce0117d781ee4499fc24a18ae841a, type: 3}
+  - {fileID: 21300000, guid: ba3f474139da5dc4981431cb2819a9e6, type: 3}
+  - {fileID: 21300000, guid: a4a21a51ebe50f6448011a4b9673b88f, type: 3}
+  - {fileID: 21300000, guid: d65443a121b685a43a5bee646c9add51, type: 3}
+  - {fileID: 21300000, guid: 16564ad14ac7a8647a942051b90fdbaa, type: 3}
+  - {fileID: 21300000, guid: 4b315fd1913ad6849af7d9ac704f3258, type: 3}
+  - {fileID: 21300000, guid: 7f8151f1b9f757f44bf5a7a213df8427, type: 3}
+  - {fileID: 21300000, guid: 7b13670220fe20f419deff7c2405b656, type: 3}
+  - {fileID: 21300000, guid: 40ef1582b32d35f49bb1a390bf294832, type: 3}
+  - {fileID: 21300000, guid: 60e225a280145e44c93f38f6a04a988b, type: 3}
+  - {fileID: 21300000, guid: e93be6e26e852c648a6a164a8cc4fae0, type: 3}
+  - {fileID: 21300000, guid: f4b0606347dd5474c867b511e7a7b251, type: 3}
+  - {fileID: 21300000, guid: 403cfaa396b183e41b8c82e255a8ee93, type: 3}
+  - {fileID: 21300000, guid: e5d13a246cf02fc4aa3368e5320f610a, type: 3}
+  - {fileID: 21300000, guid: 9c40a2b40e83fda41bd55d98196554e0, type: 3}
+  - {fileID: 21300000, guid: 14268bd4cb0e13449a8dfd3815f92648, type: 3}
+  - {fileID: 21300000, guid: 51ba4bf4753ffd447a2542b35c3d3497, type: 3}
+  - {fileID: 21300000, guid: ab0f2b1532cbf6848b435ff10e26793f, type: 3}
+  - {fileID: 21300000, guid: 66270725e53585841991fb1c5822b132, type: 3}
+  - {fileID: 21300000, guid: ae18ff856405f9b41a31af70ead81d39, type: 3}
+  - {fileID: 21300000, guid: 5dceda56236059446835fd282a7f71ef, type: 3}
+  - {fileID: 21300000, guid: 7ef780966b7e0804abc477820e22240d, type: 3}
+  - {fileID: 21300000, guid: 4ef286575c6b87c41b2f3d67c0c6e0d5, type: 3}
+  - {fileID: 21300000, guid: 8ab27677be9656444b01fb3c15ea7e48, type: 3}
+  - {fileID: 21300000, guid: 967aedb7adb670845a57e4ab97255406, type: 3}
+  - {fileID: 21300000, guid: 1dc43fb7a4ea5c244a971020af35f6f5, type: 3}
+  - {fileID: 21300000, guid: 612386c7e0072874da372500f3419405, type: 3}
+  - {fileID: 21300000, guid: 4fa9ddc7669f58a41bdaff2e74484645, type: 3}
+  - {fileID: 21300000, guid: 41184ee763c3a8f438c58177f2385903, type: 3}
+  - {fileID: 21300000, guid: fbecb0f7ffacf76429b832076462c979, type: 3}
+  - {fileID: 21300000, guid: de721818380e04341b83c9b476bde364, type: 3}
+  - {fileID: 21300000, guid: 1230d348f4fae1f4693f0879500dc1c4, type: 3}
+  - {fileID: 21300000, guid: ea0dc0587d992b2409cb3e7cb162b8dc, type: 3}
+  - {fileID: 21300000, guid: d86f6588947cb294ea61e0bd7eafb047, type: 3}
+  - {fileID: 21300000, guid: f57dd9e817c58584d8f2515c1e3f0d2b, type: 3}
+  - {fileID: 21300000, guid: 71720ee80f96680419ab663aa356d2e5, type: 3}
+  - {fileID: 21300000, guid: b450d619b69f3954a9b912a406abfbe7, type: 3}
+  - {fileID: 21300000, guid: db784a8adc5b3444aa81695a546e330a, type: 3}
+  - {fileID: 21300000, guid: dc4dc19a875b9134392607aa5d11d365, type: 3}
+  - {fileID: 21300000, guid: 473c4b9a50770da41b1b42d3376079f8, type: 3}
+  - {fileID: 21300000, guid: baa195ba52b773e4fadcfd0b54e8c8ef, type: 3}
+  - {fileID: 21300000, guid: 60389ddaf4bf123449de6876f0bebe9c, type: 3}
+  - {fileID: 21300000, guid: 41589a1b2d61e224a86704f2d864920f, type: 3}
+  - {fileID: 21300000, guid: 41a3a76bf9cad084581f284f48f92064, type: 3}
+  - {fileID: 21300000, guid: 0c0a2b6bf9e8e4d43b20912b635814de, type: 3}
+  - {fileID: 21300000, guid: 6af1c57ba43ded44f8e5b5e388ed33a4, type: 3}
+  - {fileID: 21300000, guid: 82ef0e7b2ae346844a2165951ebc1965, type: 3}
+  - {fileID: 21300000, guid: 42d9a6cb5b20d2e4bb70aca36dd6010d, type: 3}
+  - {fileID: 21300000, guid: 756120fbb946c7a41808eae99048fbd3, type: 3}
+  - {fileID: 21300000, guid: 29981c2c4d8d06547b3b378487fad1a4, type: 3}
+  - {fileID: 21300000, guid: c0fe72cc9d85c5e46ac83ebc0bb9d5ed, type: 3}
+  - {fileID: 21300000, guid: 11dc171d6a3f46141974ecfe6a091be0, type: 3}
+  - {fileID: 21300000, guid: 438c3d4d959351d4a95d41ec14f35e45, type: 3}
+  - {fileID: 21300000, guid: 6aaf33dd2728d2a4cb197d9dc96bbf48, type: 3}
+  - {fileID: 21300000, guid: 24206a2effaec0a46a781eb7db7275c4, type: 3}
+  - {fileID: 21300000, guid: 35c5bc2e84fe2e44ba6a7cdfa1bb52fb, type: 3}
+  - {fileID: 21300000, guid: fe966e6ec531bf049b9079f1e9711f64, type: 3}
+  - {fileID: 21300000, guid: 998252ae3c0357140a049a21c9f78422, type: 3}
+  - {fileID: 21300000, guid: f82d46be80a3f60429f485a6b54e9ae1, type: 3}
+  - {fileID: 21300000, guid: 2809b0fe8857f2f49bf0ac9b24ad560c, type: 3}
+  - {fileID: 21300000, guid: 8104b05f285006b4884b8f776328fcd1, type: 3}
+  - {fileID: 21300000, guid: 8730e35f5a8d0d3458f56ca550be134f, type: 3}
+  - {fileID: 21300000, guid: ab694dbf1e64a3e449c2c3b6cef50d22, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cursor-Attack
+  - menu-skill
+  - Button-PlusStat
+  - window-cautionsave
+  - minimap-zoomout-down
+  - Bar-hp
+  - Bar-frame-inv
+  - Bar-frame
+  - MenuHead-Skill
+  - Cursor-Npc Talk
+  - Button-Reset
+  - menu-setting-down
+  - button-cancel
+  - button-Prev-Down
+  - button-cancel-down
+  - menu-bag
+  - Button-Accept-Down
+  - frame-face
+  - menu-status
+  - Button-Closet
+  - button-save-down
+  - button-return
+  - bar-castframe
+  - Bar-enemy
+  - Cursor-Pick
+  - Button-Sell
+  - button-Next-Down
+  - button-quit
+  - Button-Sell-Down
+  - menu-bag-down
+  - minimap-zoomout
+  - button-save
+  - menu-equip
+  - button-return-down
+  - Cursor-Normal
+  - menu-setting
+  - button-cancel2-down
+  - Button-Reset-Down
+  - bar-cast
+  - Button-ClosetDown
+  - coin-icon
+  - Button-Accept
+  - infoname
+  - frame-minimap
+  - menu-equip-down
+  - menu-skill-down
+  - Bar-exp
+  - bar-expframe
+  - Button-Ok-Down
+  - window-amoutdrop
+  - button-Prev
+  - Cursor-LockTarget
+  - button-cancel2
+  - MenuHead-Status
+  - mapname
+  - minimap-zoomin-down
+  - button-quit-down
+  - shortcutskill
+  - Button-PlusStatDown
+  - button-Next
+  - window-cautiondead
+  - menu-status-down
+  - Bar-mp
+  - minimap-zoomin
+  - Button-Ok
+  m_Tag: UIAtlas_Common
+  m_IsVariant: 0

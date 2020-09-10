@@ -1,0 +1,22 @@
+﻿using FrameWork.JianChen.Core;
+using FrameWork.JianChen.Interfaces;
+
+public class #SCRIPTNAME# : Panel {
+	
+	 public override void Init(IModule module)
+    {
+        base.Init(module);
+        #NOTRIM#
+    }
+
+    public override void Hide()
+    {
+        #NOTRIM#
+    }
+
+    public override void Show(float delay)
+    {
+        #NOTRIM#
+    }
+
+}

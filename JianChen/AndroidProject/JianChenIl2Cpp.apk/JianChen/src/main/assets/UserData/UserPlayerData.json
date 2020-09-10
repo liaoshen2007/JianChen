@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 10001,
+    "RoleName": "27号",
+    "Level": 1,
+    "Exp": 1,
+    "Gold": 1000,
+    "HP": 1000,
+    "Occupation": 0,
+    "Sexual": 1,
+    "Equip": 1,
+    "MapName": "FreshScene"
+  }
+]

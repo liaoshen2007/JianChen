@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas_BagView
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ef12dc225fd5c644d9960dcf4112d946, type: 3}
+    totalSpriteSurfaceArea: 249400
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 847f75c082495f44a900bac923f418df, type: 3}
+  - {fileID: 21300000, guid: b9a685f216cff8c469ddb77d6f56a0ca, type: 3}
+  - {fileID: 21300000, guid: b7436cb3f5680cc4e9e4382c142b6669, type: 3}
+  - {fileID: 21300000, guid: 435042755bc5bf04189843521593b178, type: 3}
+  - {fileID: 21300000, guid: 415dcc88e2e9d294a8ef5c82d5395671, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Menu-WindowInventory
+  - LabelTag
+  - icon-null
+  - Slot-layout
+  - MenuHead-Inventory
+  m_Tag: UIAtlas_BagView
+  m_IsVariant: 0

@@ -1,0 +1,42 @@
+[
+  {
+    "MallId": 10001,
+    "MallType": 0,
+    "MallName": "木剑",
+    "MoneyType": 0,
+    "ItemId": 10001,
+    "Price": 200,
+    "MaxTimes": 0,
+    "UseDesc": "新手专用木剑"
+  },
+  {
+    "MallId": 10002,
+    "MallType": 0,
+    "MallName": "木盔甲",
+    "MoneyType": 0,
+    "ItemId": 20002,
+    "Price": 200,
+    "MaxTimes": 0,
+    "UseDesc": "新手专用盔甲"
+  },
+  {
+    "MallId": 10003,
+    "MallType": 0,
+    "MallName": "小头盔",
+    "MoneyType": 0,
+    "ItemId": 30003,
+    "Price": 200,
+    "MaxTimes": 0,
+    "UseDesc": "新手专用头盔"
+  },
+  {
+    "MallId": 10004,
+    "MallType": 0,
+    "MallName": "鞋子",
+    "MoneyType": 0,
+    "ItemId": 40004,
+    "Price": 200,
+    "MaxTimes": 0,
+    "UseDesc": "新手跑鞋"
+  }
+]

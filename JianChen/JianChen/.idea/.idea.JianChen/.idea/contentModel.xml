@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_JianChen.-1126794384.00" t="ExcludeRecursive" />
+    <e p="D:\JianChen\JianChen2\JianChen" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Arts" t="Include">
+          <e p="Danboard2" t="Include">
+            <e p="标注.txt" t="Include" />
+          </e>
+          <e p="FreeVoxelGirl" t="Include">
+            <e p="README.txt" t="Include" />
+          </e>
+          <e p="SimpleSky" t="Include">
+            <e p="README.txt" t="Include" />
+          </e>
+          <e p="TopDown" t="Include">
+            <e p="Model" t="Include">
+              <e p="Model Character" t="Include">
+                <e p="Swordman" t="Include">
+                  <e p="Swordman_Animation.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Model Enemy" t="Include">
+                <e p="Wolf" t="Include">
+                  <e p="Wolf_Animation.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="UnityChan" t="Include">
+            <e p="license.txt" t="Include" />
+            <e p="Models" t="Include">
+              <e p="UnityChanShader" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Unitychan_chara_fuku.shader" t="Include" />
+                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_hair.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CameraController.cs" t="Include" />
+              <e p="FaceUpdate.cs" t="Include" />
+              <e p="IdleChanger.cs" t="Include" />
+              <e p="SceneLoader.cs" t="Include" />
+              <e p="ThirdPersonCamera.cs" t="Include" />
+              <e p="UnityChanControlScriptWithRgidBody.cs" t="Include" />
+            </e>
+            <e p="Stage" t="Include">
+              <e p="Shader" t="Include">
+                <e p="AlphaMask.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="VoxelAnimals" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="PlayerController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Documentation" t="Include">
+              <e p="README.txt" t="Include" />
+            </e>
+          </e>
+          <e p="VoxelCharacters" t="Include">
+            <e p="ToonShading" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Mirror 1.shader" t="Include" />
+                <e p="ToonBasic.shader" t="Include" />
+                <e p="ToonBasicOutline.shader" t="Include" />
+                <e p="ToonLit.shader" t="Include" />
+                <e p="ToonLitOutline.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="BundleAssets" t="Include">
+          <e p="3DModel" t="Include">
+            <e p="MainRole" t="Include">
+              <e p="LiaoChen" t="Include">
+                <e p="Ani" t="Include">
+                  <e p="Magician" t="Include">
+                    <e p="Magician_Animation.txt" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="NPCRole" t="Include">
+              <e p="UnityGirl" t="Include">
+                <e p="Mesh" t="Include">
+                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eye.shader" t="Include" />
+                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                  <e p="Unitychan_chara_hada.shader" t="Include" />
+                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SkillEffect" t="Include">
+              <e p="SkillRes" t="Include">
+                <e p="Effect" t="Include">
+                  <e p="Effects_01" t="Include">
+                    <e p="Prefebs" t="Include">
+                      <e p="FollowTarget.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Materials" t="Include">
+            <e p="UICircleMaskShader.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Demigiant" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="AssetBundleHelper.cs" t="Include" />
+          <e p="BuildSystem" t="Include">
+            <e p="AndroidAutoBuild.cs" t="Include" />
+            <e p="AndroidChannelBuild.cs" t="Include" />
+            <e p="BuildUtil.cs" t="Include" />
+            <e p="ProjectBuilderAndroid.cs" t="Include" />
+          </e>
+          <e p="DialogDataEditor.cs" t="Include" />
+          <e p="FindPathEditor.cs" t="Include" />
+          <e p="FindReferences.cs" t="Include" />
+          <e p="MapDataEditor.cs" t="Include" />
+          <e p="SetPropertyDrawer.cs" t="Include" />
+          <e p="UGUIScriptsCreate.cs" t="Include" />
+          <e p="ViewScriptCreaterEditor.cs" t="Include" />
+        </e>
+        <e p="link.xml" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Common" t="Include">
+            <e p="AnimationSpeed.cs" t="Include" />
+            <e p="ButtonSound.cs" t="Include" />
+            <e p="DestroyForTime.cs" t="Include" />
+            <e p="EventConst.cs" t="Include" />
+            <e p="FindCam.cs" t="Include" />
+            <e p="FlowText.cs" t="Include" />
+            <e p="Loading.cs" t="Include" />
+            <e p="LoadingOverlay.cs" t="Include" />
+            <e p="ParabolaMotion.cs" t="Include" />
+            <e p="RayCastCallBack.cs" t="Include" />
+            <e p="ReturnablePanel.cs" t="Include" />
+            <e p="ScrollUV.cs" t="Include" />
+            <e p="SetPropertyAttribute.cs" t="Include" />
+            <e p="SetPropertyExample.cs" t="Include" />
+          </e>
+          <e p="Components" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="BackBtnComponent.cs" t="Include" />
+            <e p="DialogDataBuilder.cs" t="Include" />
+            <e p="Entity" t="Include">
+              <e p="EntityManager.cs" t="Include" />
+              <e p="FollowMainRole.cs" t="Include" />
+            </e>
+            <e p="EntityMono" t="Include">
+              <e p="AnimationEventReceiver.cs" t="Include" />
+              <e p="Area.cs" t="Include" />
+              <e p="DamageEffectVo.cs" t="Include" />
+              <e p="DamageHud.cs" t="Include" />
+              <e p="PoemEntity.cs" t="Include" />
+              <e p="SkillPlayer.cs" t="Include" />
+            </e>
+            <e p="JoyStickComponent" t="Include">
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="List" t="Include">
+              <e p="EasyObjectPool" t="Include">
+                <e p="EasyObjectPool.cs" t="Include" />
+                <e p="PoolObject.cs" t="Include" />
+                <e p="ResourceManager.cs" t="Include" />
+              </e>
+              <e p="InitOnStart.cs" t="Include" />
+              <e p="LoopHorizontalScrollRect.cs" t="Include" />
+              <e p="LoopScrollRect.cs" t="Include" />
+              <e p="LoopVerticalScrollRect.cs" t="Include" />
+            </e>
+            <e p="MapDataBuilder.cs" t="Include" />
+            <e p="ModuleScriptBuilder.cs" t="Include" />
+            <e p="NetWorkComponent" t="Include">
+              <e p="UserAccountTable.cs" t="Include" />
+            </e>
+            <e p="PanelAndControllerBuilder.cs" t="Include" />
+            <e p="PopupManager.cs" t="Include" />
+            <e p="ProgressBar.cs" t="Include" />
+            <e p="ViewScriptBuilder.cs" t="Include" />
+            <e p="Windows" t="Include">
+              <e p="AlertWindow.cs" t="Include" />
+              <e p="ConfirmWindow.cs" t="Include" />
+              <e p="Constants.cs" t="Include" />
+              <e p="DragMono.cs" t="Include" />
+              <e p="Window.cs" t="Include" />
+            </e>
+          </e>
+          <e p="DataModel" t="Include">
+            <e p="ConfigData" t="Include">
+              <e p="ConfigDataManager.cs" t="Include" />
+              <e p="Rule" t="Include">
+                <e p="DialogData.cs" t="Include" />
+                <e p="EnemyData.cs" t="Include" />
+                <e p="EquipBaseRule.cs" t="Include" />
+                <e p="MainRoleData.cs" t="Include" />
+                <e p="MissionRuleData.cs" t="Include" />
+                <e p="NPCData.cs" t="Include" />
+                <e p="PoemData.cs" t="Include" />
+                <e p="ShopBaseData.cs" t="Include" />
+                <e p="SkillBaseData.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GlobalData.cs" t="Include" />
+            <e p="PlayerData" t="Include">
+              <e p="MissionData.cs" t="Include" />
+              <e p="PlayerData.cs" t="Include" />
+              <e p="PlayerVo.cs" t="Include" />
+              <e p="PoemGameData.cs" t="Include" />
+              <e p="SceneData.cs" t="Include" />
+            </e>
+            <e p="PropData" t="Include">
+              <e p="RewardVo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Entity" t="Include">
+            <e p="EnemyRole" t="Include">
+              <e p="Controller" t="Include">
+                <e p="EnemyRoleEntityController.cs" t="Include" />
+              </e>
+              <e p="EnemyRoleEntitySystem.cs" t="Include" />
+              <e p="ModelView" t="Include">
+                <e p="EnemyRoleGameEntity.cs" t="Include" />
+                <e p="EnemyRoleSingleEntity.cs" t="Include" />
+              </e>
+            </e>
+            <e p="MainRole" t="Include">
+              <e p="Controller" t="Include">
+                <e p="MainRoleController" t="Include">
+                  <e p="MainRoleEntityController.cs" t="Include" />
+                </e>
+              </e>
+              <e p="MainRoleEntitySystem.cs" t="Include" />
+              <e p="ModelView" t="Include">
+                <e p="MainRoleGameEntity.cs" t="Include" />
+                <e p="MainRoleSingleEntity.cs" t="Include" />
+              </e>
+            </e>
+            <e p="NPCRole" t="Include">
+              <e p="Controller" t="Include">
+                <e p="NPCRoleEntityController.cs" t="Include" />
+              </e>
+              <e p="ModelView" t="Include">
+                <e p="NPCRoleGameEntity.cs" t="Include" />
+                <e p="NPCRoleSingleEntity.cs" t="Include" />
+              </e>
+              <e p="NPCRoleEntitySystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="FrameWork" t="Include">
+            <e p="I18N" t="Include">
+              <e p="I18NManager.cs" t="Include" />
+            </e>
+            <e p="JianChen" t="Include">
+              <e p="Core" t="Include">
+                <e p="Controller.cs" t="Include" />
+                <e p="Entity" t="Include">
+                  <e p="Entity.cs" t="Include" />
+                  <e p="EntityBase.cs" t="Include" />
+                  <e p="EntityView.cs" t="Include" />
+                </e>
+                <e p="Event" t="Include">
+                  <e p="EventController.cs" t="Include" />
+                  <e p="EventDispatcher.cs" t="Include" />
+                  <e p="EventDragListener.cs" t="Include" />
+                  <e p="EventListner.cs" t="Include" />
+                </e>
+                <e p="Message.cs" t="Include" />
+                <e p="Model.cs" t="Include" />
+                <e p="ModuleBase.cs" t="Include" />
+                <e p="ModuleManager.cs" t="Include" />
+                <e p="Panel.cs" t="Include" />
+                <e p="Popup.cs" t="Include" />
+                <e p="View.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IController.cs" t="Include" />
+                <e p="IEntity.cs" t="Include" />
+                <e p="IEntityView.cs" t="Include" />
+                <e p="IMessage.cs" t="Include" />
+                <e p="IModel.cs" t="Include" />
+                <e p="IModule.cs" t="Include" />
+                <e p="IPopup.cs" t="Include" />
+                <e p="IView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Loader" t="Include">
+              <e p="AssetBundleLoader" t="Include">
+                <e p="AssetItem.cs" t="Include" />
+                <e p="BundleItem.cs" t="Include" />
+              </e>
+              <e p="AssetLoader.cs" t="Include" />
+              <e p="AssetManager.cs" t="Include" />
+              <e p="BundleWrapper.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+              <e p="ResourceManager.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="ClientTimer.cs" t="Include" />
+              <e p="Extends.cs" t="Include" />
+              <e p="MonoObject.cs" t="Include" />
+              <e p="PathUtil.cs" t="Include" />
+              <e p="UIEventListener.cs" t="Include" />
+              <e p="UIType.cs" t="Include" />
+              <e p="UITypeSign.cs" t="Include" />
+              <e p="Util.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Main.cs" t="Include" />
+          <e p="Module" t="Include">
+            <e p="BagView" t="Include">
+              <e p="BagViewModule.cs" t="Include" />
+              <e p="Controller" t="Include">
+                <e p="BagViewController.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="PropModel.cs" t="Include" />
+                <e p="UserEquipData.cs" t="Include" />
+              </e>
+              <e p="View" t="Include">
+                <e p="BagViewPanel.cs" t="Include" />
+                <e p="BagViewView.cs" t="Include" />
+                <e p="PropIconMono.cs" t="Include" />
+                <e p="PropItem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="CreateRole" t="Include">
+              <e p="Controller" t="Include">
+                <e p="CreateRoleController.cs" t="Include" />
+              </e>
+              <e p="CreateRoleModule.cs" t="Include" />
+              <e p="Data" t="Include">
+                <e p="CreateRoleVo.cs" t="Include" />
+                <e p="PlayerAvoData.cs" t="Include" />
+              </e>
+              <e p="View" t="Include">
+                <e p="CreateRolePanel.cs" t="Include" />
+                <e p="CreateRoleView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Dialog" t="Include">
+              <e p="Controller" t="Include">
+                <e p="DialogController.cs" t="Include" />
+              </e>
+              <e p="DialogModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="DialogPanel.cs" t="Include" />
+                <e p="DialogView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="EntityConst.cs" t="Include" />
+            <e p="Equipment" t="Include">
+              <e p="Controller" t="Include">
+                <e p="EquipmentController.cs" t="Include" />
+              </e>
+              <e p="EquipmentModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="EquipmentPanel.cs" t="Include" />
+                <e p="EquipmentView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GameMain" t="Include">
+              <e p="Controller" t="Include">
+                <e p="GameMainController.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="TaskTrigger.cs" t="Include" />
+                <e p="UserMissionVo.cs" t="Include" />
+              </e>
+              <e p="GameMainModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="AwardItem.cs" t="Include" />
+                <e p="AwardWindow.cs" t="Include" />
+                <e p="GameMainPanel.cs" t="Include" />
+                <e p="GameMainView.cs" t="Include" />
+                <e p="GameTaskItem.cs" t="Include" />
+                <e p="PoemItem.cs" t="Include" />
+                <e p="SettingWindow.cs" t="Include" />
+                <e p="StatusWindow.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Login" t="Include">
+              <e p="Controller" t="Include">
+                <e p="LoadDataController.cs" t="Include" />
+                <e p="LoginController.cs" t="Include" />
+              </e>
+              <e p="LoginModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="LoadGameWindow.cs" t="Include" />
+                <e p="LoginPanel.cs" t="Include" />
+                <e p="LoginView.cs" t="Include" />
+                <e p="PlayerItem.cs" t="Include" />
+                <e p="RegisterWindow.cs" t="Include" />
+              </e>
+            </e>
+            <e p="MessageConst.cs" t="Include" />
+            <e p="Mission" t="Include">
+              <e p="Controller" t="Include">
+                <e p="MissionController.cs" t="Include" />
+              </e>
+              <e p="MissionModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="MissionItem.cs" t="Include" />
+                <e p="MissionPanel.cs" t="Include" />
+                <e p="MissionView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ModuleConfig.cs" t="Include" />
+            <e p="NPCPreview" t="Include">
+              <e p="Controller" t="Include">
+                <e p="NPCPreviewController.cs" t="Include" />
+              </e>
+              <e p="NPCPreviewModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="NPCPreviewPanel.cs" t="Include" />
+                <e p="NPCPreviewView.cs" t="Include" />
+                <e p="NPCTaskDiaItem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PlayerCtrl" t="Include">
+              <e p="PlayerCtrlModule.cs" t="Include" />
+            </e>
+            <e p="Shop" t="Include">
+              <e p="Controller" t="Include">
+                <e p="ShopController.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="ShopModel.cs" t="Include" />
+              </e>
+              <e p="ShopModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="ShopItem.cs" t="Include" />
+                <e p="ShopPanel.cs" t="Include" />
+                <e p="ShopView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Skill" t="Include">
+              <e p="Controller" t="Include">
+                <e p="SkillController.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="SkillModel.cs" t="Include" />
+                <e p="UserSkillData.cs" t="Include" />
+              </e>
+              <e p="SkillModule.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="SkillIconMono.cs" t="Include" />
+                <e p="SkillItem.cs" t="Include" />
+                <e p="SkillPanel.cs" t="Include" />
+                <e p="SkillView.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Shader" t="Include">
+          <e p="MaskShader.shader" t="Include" />
+          <e p="Transparent_Outline.shader" t="Include" />
+        </e>
+        <e p="Tools" t="Include">
+          <e p="Templates" t="Include">
+            <e p="96-JianChenmodule__C# view Script-NewView.cs.txt" t="Include" />
+            <e p="97-JianChenmodule__C# module Script-NewModule.cs.txt" t="Include" />
+            <e p="98-JianChenmodule__C# controller Script-NewController.cs.txt" t="Include" />
+            <e p="99-JianChenmodule__C# panel Script-NewPanel.cs.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Unity-Logs-Viewer" t="Include">
+          <e p="Reporter" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReporterEditor.cs" t="Include" />
+            </e>
+            <e p="MultiKeyDictionary.cs" t="Include" />
+            <e p="Reporter.cs" t="Include" />
+            <e p="ReporterGUI.cs" t="Include" />
+            <e p="ReporterMessageReceiver.cs" t="Include" />
+            <e p="Test" t="Include">
+              <e p="Rotate.cs" t="Include" />
+              <e p="TestReporter.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Virtual Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="2D Example" t="Include">
+              <e p="Player2DExample.cs" t="Include" />
+            </e>
+            <e p="3D Example" t="Include">
+              <e p="Player3DExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Joysticks" t="Include">
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="VOXFileLoader" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="VOXFileLoader" t="Include">
+            <e p="Editor" t="Include">
+              <e p="VOXFileLoader.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ObjFileExport.cs" t="Include" />
+              <e p="VOXCruncher.cs" t="Include" />
+              <e p="VOXFileImport.cs" t="Include" />
+              <e p="VOXHashMap.cs" t="Include" />
+              <e p="VOXModel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="JianChen.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

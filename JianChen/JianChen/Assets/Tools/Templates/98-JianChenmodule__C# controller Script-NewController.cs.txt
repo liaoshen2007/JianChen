@@ -1,0 +1,24 @@
+﻿using FrameWork.JianChen.Core;
+
+public class #SCRIPTNAME# : Controller {
+	
+	public override void Start()
+    {
+        #NOTRIM#
+    }
+    /// <summary>
+    /// 处理View消息
+    /// </summary>
+    /// <param name="message"></param>
+    public override void OnMessage(Message message)
+    {
+        string name = message.Name;
+        object[] body = message.Params;
+        switch (name)
+        {
+            
+        }
+    }
+	
+	
+}

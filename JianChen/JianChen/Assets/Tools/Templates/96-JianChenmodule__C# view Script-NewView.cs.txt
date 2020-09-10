@@ -1,0 +1,12 @@
+﻿using FrameWork.JianChen.Core;
+
+public class #SCRIPTNAME# : View 
+{
+	
+	private void Awake()
+	{
+		
+	}
+}
+
+

@@ -1,0 +1,119 @@
+[
+  {
+    "SkillId": 1,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "挥剑",
+    "SkillIcon": "skill-01",
+    "UnLockLevel": 0,
+    "SkillDesc": "新手战士专用剑术"
+  },
+  {
+    "SkillId": 2,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "猛击",
+    "SkillIcon": "skill-02",
+    "UnLockLevel": 1,
+    "SkillDesc": "用点力的剑术"
+  },
+  {
+    "SkillId": 3,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "砍劈",
+    "SkillIcon": "skill-03",
+    "UnLockLevel": 2,
+    "SkillDesc": "非常用力的剑术"
+  },
+  {
+    "SkillId": 4,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "地裂剑",
+    "SkillIcon": "skill-04",
+    "UnLockLevel": 3,
+    "SkillDesc": "大招"
+  },
+  {
+    "SkillId": 5,
+    "Occupation": 0,
+    "SkillType": 0,
+    "SkillName": "攻击提升",
+    "SkillIcon": "skill-05",
+    "UnLockLevel": 4,
+    "SkillDesc": "被动的攻击力提升"
+  },
+  {
+    "SkillId": 6,
+    "Occupation": 0,
+    "SkillType": 2,
+    "SkillName": "剑速提升",
+    "SkillIcon": "skill-06",
+    "UnLockLevel": 5,
+    "SkillDesc": "剑速提升的BUFF"
+  },
+  {
+    "SkillId": 7,
+    "Occupation": 0,
+    "SkillType": 2,
+    "SkillName": "防御提升",
+    "SkillIcon": "skill-07",
+    "UnLockLevel": 6,
+    "SkillDesc": "提升防御的BUFF"
+  },
+  {
+    "SkillId": 8,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "魔法棒",
+    "SkillIcon": "skill-08",
+    "UnLockLevel": 0,
+    "SkillDesc": "新手魔术"
+  },
+  {
+    "SkillId": 9,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "天火",
+    "SkillIcon": "skill-09",
+    "UnLockLevel": 1,
+    "SkillDesc": "精通一点的魔术"
+  },
+  {
+    "SkillId": 10,
+    "Occupation": 0,
+    "SkillType": 0,
+    "SkillName": "MP提升",
+    "SkillIcon": "skill-10",
+    "UnLockLevel": 2,
+    "SkillDesc": "好用的魔法被动"
+  },
+  {
+    "SkillId": 11,
+    "Occupation": 0,
+    "SkillType": 1,
+    "SkillName": "大魔法术",
+    "SkillIcon": "skill-11",
+    "UnLockLevel": 3,
+    "SkillDesc": "魔法大招"
+  },
+  {
+    "SkillId": 12,
+    "Occupation": 0,
+    "SkillType": 2,
+    "SkillName": "魔术提升",
+    "SkillIcon": "skill-12",
+    "UnLockLevel": 4,
+    "SkillDesc": "不错的恢复魔术BUFF"
+  },
+  {
+    "SkillId": 13,
+    "Occupation": 0,
+    "SkillType": 2,
+    "SkillName": "恢复HP",
+    "SkillIcon": "skill-13",
+    "UnLockLevel": 5,
+    "SkillDesc": "不错的回血BUFF"
+  }
+]

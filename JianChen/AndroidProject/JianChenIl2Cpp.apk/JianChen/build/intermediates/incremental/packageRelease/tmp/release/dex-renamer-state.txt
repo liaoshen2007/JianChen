@@ -1,0 +1,4 @@
+#Wed Nov 20 17:03:46 CST 2019
+base.0=D\:\\JianChen\\JianChen2\\AndroidProject\\JianChenIl2Cpp.apk\\JianChen\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

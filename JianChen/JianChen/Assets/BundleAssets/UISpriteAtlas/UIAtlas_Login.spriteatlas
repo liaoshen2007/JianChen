@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas_Login
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: be3095f0feb0b2b499ec37b7d5f9766c, type: 3}
+    totalSpriteSurfaceArea: 145407
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 380b8231bcf43ce4886590af7cfe8f82, type: 3}
+  - {fileID: 21300000, guid: f06926a1bf1fdda40b87f4f5e5408d77, type: 3}
+  - {fileID: 21300000, guid: efe7b512a1de0204081854002e2ab975, type: 3}
+  - {fileID: 21300000, guid: ba9e1494ebc2ebc46ac3ea940380fa3f, type: 3}
+  - {fileID: 21300000, guid: bdb8f766f619cdb4ab36cb028790c85d, type: 3}
+  - {fileID: 21300000, guid: 87d3c9a855313d24dabc64d0b189bc4b, type: 3}
+  - {fileID: 21300000, guid: 7dff7aec095dbf0429548c2e4515bf23, type: 3}
+  - {fileID: 21300000, guid: bb64cd8d7797a4044b0eaff12c78215d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - text-entername
+  - button-loadgame-disable
+  - button-loadgame-down
+  - pressanykey
+  - button-newgame
+  - text-charcreate
+  - button-newgame-down
+  - button-loadgame
+  m_Tag: UIAtlas_Login
+  m_IsVariant: 0

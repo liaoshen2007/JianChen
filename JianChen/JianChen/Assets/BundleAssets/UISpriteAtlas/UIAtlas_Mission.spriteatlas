@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas_Mission
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 39146fa91460c8c4492fa6eab5ca1767, type: 3}
+    totalSpriteSurfaceArea: 97518
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 64526482768e19549801f6da6579962e, type: 3}
+  - {fileID: 21300000, guid: 4d511c9283b417946a7f195cae3741ea, type: 3}
+  - {fileID: 21300000, guid: 6aded3d6959f64a41b5219a3f7318608, type: 3}
+  - {fileID: 21300000, guid: 8447832740726674684755ecaa998e64, type: 3}
+  - {fileID: 21300000, guid: 5aee8b9ef49d6da458126671d2c78c74, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UIAtlas_Mission__emerald
+  - UIAtlas_Mission_PanelBG
+  - UIAtlas_Mission_beige
+  - UIAtlas_Mission_check
+  - UIAtlas_Mission_a_red
+  m_Tag: UIAtlas_Mission
+  m_IsVariant: 0
