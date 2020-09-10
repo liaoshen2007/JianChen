@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_JianChen.-1126794384.00" t="ExcludeRecursive" />
-    <e p="D:\JianChen\JianChen2\JianChen" t="IncludeRecursive">
+    <e p="C:\Users\X280\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\X280\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_JianChen.-769695176.00" t="ExcludeRecursive" />
+    <e p="D:\JianChen2\JianChen\JianChen" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -523,29 +523,11 @@
             </e>
           </e>
         </e>
-        <e p="VOXFileLoader" t="Include">
-          <e p="README.txt" t="Include" />
-          <e p="VOXFileLoader" t="Include">
-            <e p="Editor" t="Include">
-              <e p="VOXFileLoader.cs" t="Include" />
-            </e>
-            <e p="Scripts" t="Include">
-              <e p="ObjFileExport.cs" t="Include" />
-              <e p="VOXCruncher.cs" t="Include" />
-              <e p="VOXFileImport.cs" t="Include" />
-              <e p="VOXHashMap.cs" t="Include" />
-              <e p="VOXModel.cs" t="Include" />
-            </e>
-          </e>
-        </e>
       </e>
       <e p="JianChen.sln" t="IncludeFlat" />
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

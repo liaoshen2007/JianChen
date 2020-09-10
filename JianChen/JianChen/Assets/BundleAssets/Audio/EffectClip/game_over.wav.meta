@@ -18,5 +18,5 @@ AudioImporter:
   ambisonic: 0
   3D: 1
   userData: 
-  assetBundleName: music/effectclip/game_over
+  assetBundleName: audio/effectclip/game_over
   assetBundleVariant: music
